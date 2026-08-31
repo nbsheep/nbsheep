@@ -37,50 +37,22 @@
 ### 📊 &nbsp;GitHub 数据 · Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nbsheep&show_icons=true&hide_border=true&bg_color=00000000&theme=tokyonight" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nbsheep&show_icons=true&hide_border=true&bg_color=00000000&theme=default" />
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nbsheep&show_icons=true&hide_border=true&bg_color=00000000&theme=default" />
-    </picture>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nbsheep&layout=compact&hide_border=true&bg_color=00000000&theme=tokyonight" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nbsheep&layout=compact&hide_border=true&bg_color=00000000&theme=default" />
-      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbsheep&layout=compact&hide_border=true&bg_color=00000000&theme=default" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nbsheep&hide_border=true&background=0D1117&ring=4B74E2&fire=22C55E&sideCur=6366F1&currStreakLabel=4B74E2&sideLabels=94A3B8&dates=94A3B8" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=nbsheep&hide_border=true&background=FFFFFF&ring=4B74E2&fire=16A34A&sideCur=6366F1&currStreakLabel=4B74E2&sideLabels=64748B&dates=64748B" />
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nbsheep&hide_border=true&background=FFFFFF&ring=4B74E2&fire=16A34A&sideCur=6366F1&currStreakLabel=4B74E2&sideLabels=64748B&dates=64748B" />
     </picture>
   </a>
 </p>
 
 ### 📌 &nbsp;项目 · Projects
 
-<p align="center">
-  <a href="https://github.com/nbsheep/nbsheep.github.io">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nbsheep&repo=nbsheep.github.io&hide_border=true&bg_color=00000000&theme=tokyonight" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nbsheep&repo=nbsheep.github.io&hide_border=true&bg_color=00000000&theme=default" />
-      <img alt="blog" src="https://github-readme-stats.vercel.app/api/pin/?username=nbsheep&repo=nbsheep.github.io&hide_border=true&bg_color=00000000&theme=default" />
-    </picture>
-  </a>
-  <a href="https://github.com/nbsheep/robonix">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nbsheep&repo=robonix&hide_border=true&bg_color=00000000&theme=tokyonight" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nbsheep&repo=robonix&hide_border=true&bg_color=00000000&theme=default" />
-      <img alt="robonix" src="https://github-readme-stats.vercel.app/api/pin/?username=nbsheep&repo=robonix&hide_border=true&bg_color=00000000&theme=default" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nbsheep/github-auto-commits">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nbsheep&repo=github-auto-commits&hide_border=true&bg_color=00000000&theme=tokyonight" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nbsheep&repo=github-auto-commits&hide_border=true&bg_color=00000000&theme=default" />
-      <img alt="github-auto-commits" src="https://github-readme-stats.vercel.app/api/pin/?username=nbsheep&repo=github-auto-commits&hide_border=true&bg_color=00000000&theme=default" />
-    </picture>
-  </a>
-</p>
+| 项目 Project | 描述 Description |
+| --- | --- |
+| [**nbsheep.github.io**](https://nbsheep.github.io) | 个人技术博客 (Hexo + Butterfly) · *My tech blog* |
+| [**robonix**](https://github.com/nbsheep/robonix) | 无人机协同作业平台 (Rust + Python) · *Drone collaboration platform* |
+| [**github-auto-commits**](https://github.com/nbsheep/github-auto-commits) | GitHub Actions 每日自动提交，点亮贡献图 · *Keep the contribution graph green* |
 
 ### 🐍 &nbsp;贡献贪吃蛇 · Contribution Snake
 
