@@ -75,6 +75,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/nbsheep/nbsheep/metrics/metrics.svg" width="100%" alt="Metrics Panel" />
+</p>
+
+<p align="center">
   <a href="https://github.com/2016rshah/ghchart">
     <img src="https://ghchart.rshah.org/10b981/nbsheep" width="100%" alt="Contribution Calendar" />
   </a>
