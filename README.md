@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nbsheep/nbsheep/metrics/metrics.svg" width="100%" alt="Metrics Panel" />
+  <img src="https://raw.githubusercontent.com/nbsheep/nbsheep/metrics/metrics.svg" width="480" alt="Metrics Panel" />
 </p>
 
 <p align="center">
