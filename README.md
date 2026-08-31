@@ -51,14 +51,22 @@
 
 <p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nbsheep&hide_border=true&background=ffffff&ring=06b6d4&fire=10b981&currStreakNum=0f172a&sideNums=334155&currStreakLabel=0891b2&currStreakUnit=0f172a&sideLabels=475569&dates=94a3b8&excludeDaysLabel=cbd5e1" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nbsheep&hide_border=true&background=0d1117&ring=06b6d4&fire=10b981&currStreakNum=f8fafc&sideNums=cbd5e1&currStreakLabel=22d3ee&currStreakUnit=f8fafc&sideLabels=94a3b8&dates=64748b&excludeDaysLabel=475569" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=nbsheep&hide_border=true&background=ffffff&ring=06b6d4&fire=10b981&currStreakNum=0f172a&sideNums=334155&currStreakLabel=0891b2&currStreakUnit=0f172a&sideLabels=475569&dates=94a3b8&excludeDaysLabel=cbd5e1" />
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nbsheep&hide_border=true&background=ffffff&ring=06b6d4&fire=10b981&currStreakNum=0f172a&sideNums=334155&currStreakLabel=0891b2&currStreakUnit=0f172a&sideLabels=475569&dates=94a3b8&excludeDaysLabel=cbd5e1" />
+    </picture>
   </a>
 </p>
 
 ### 🐍 &nbsp;贡献贪吃蛇 · Contribution Snake
 
 <p align="center">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/nbsheep/nbsheep/output/github-contribution-grid-snake.svg" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nbsheep/nbsheep/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nbsheep/nbsheep/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/nbsheep/nbsheep/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:10b981,50:0ea5e9,100:06b6d4&section=footer" width="100%" />
