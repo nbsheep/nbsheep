@@ -28,6 +28,13 @@
 - 📝 在 [**博客**](https://nbsheep.github.io) 记录踩坑与学习笔记 &nbsp;— *Sharing notes & lessons*
 - 🌱 正在系统补 **数据结构 / 算法** &nbsp;— *Currently grinding DS & algo*
 
+### 🚀 &nbsp;正在折腾 · Now
+
+- 🛩️ **RoboNIX × DJI** — 无人机接入协同平台的接口联调中
+- 🟩 **绿墙工厂** — 自动提交策略持续打磨
+- 🧮 **算法训练** — 数据结构专项刷题进行时
+- ✍️ **博客写作** — 踩坑笔记不间断更新
+
 ### 🎯 &nbsp;小目标 · Goals 2026
 
 - [ ] 数据结构 + 算法刷题 100 道
@@ -47,6 +54,14 @@
 
 </div>
 
+### 📌 &nbsp;精选项目 · Projects
+
+| 项目 | 简介 | 技术 |
+| --- | --- | --- |
+| [**nbsheep.github.io**](https://nbsheep.github.io) | 个人技术博客，主题魔改 + PJAX 音乐播放 | `Hexo` `Butterfly` |
+| [**robonix**](https://github.com/nbsheep/robonix) | 无人机协同作业平台 | `Rust` `Python` |
+| [**github-auto-commits**](https://github.com/nbsheep/github-auto-commits) | 每日自动提交，点亮贡献图 | `GitHub Actions` |
+
 ### 📊 &nbsp;GitHub 数据 · Stats
 
 <p align="center">
@@ -59,6 +74,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/2016rshah/ghchart">
+    <img src="https://ghchart.rshah.org/10b981/nbsheep" width="100%" alt="Contribution Calendar" />
+  </a>
+</p>
+
 ### 🐍 &nbsp;贡献贪吃蛇 · Contribution Snake
 
 <p align="center">
@@ -68,6 +89,17 @@
     <img alt="contribution snake" src="https://raw.githubusercontent.com/nbsheep/nbsheep/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
+
+### 📫 &nbsp;找到我 · Reach Me
+
+<div align="center">
+
+[![Blog Comment](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E7%95%99%E8%A8%80-Comment-06b6d4?style=for-the-badge&logo=hexo&logoColor=white)](https://nbsheep.github.io)
+[![GitHub Issue](https://img.shields.io/badge/GitHub-Issue-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nbsheep/nbsheep/issues)
+
+</div>
+
+> 💬 *有活儿想聊、代码想吐槽，博客留言或提个 Issue 都能找到我*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:10b981,50:0ea5e9,100:06b6d4&section=footer" width="100%" />
 
