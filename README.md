@@ -1,22 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%2C%20I'm%20Shameless%20%F0%9F%91%8B&desc=nbsheep%20%C2%B7%20%E9%80%A0%E8%BD%AE%E5%AD%90%E7%88%B1%E5%A5%BD%E8%80%85&descSize=16&descAlignY=68&fontSize=45&fontColor=ffffff&animation=scaleIn&color=0:06b6d4,50:0ea5e9,100:10b981&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%2C%20I'm%20Shameless%20%F0%9F%91%8B&desc=nbsheep%20%C2%B7%20%E9%80%A0%E8%BD%AE%E5%AD%90%E7%88%B1%E5%A5%BD%E8%80%85&descSize=16&descAlignY=68&fontSize=40&fontColor=ffffff&animation=scaleIn&color=0:06b6d4,50:0ea5e9,100:10b981&section=header" width="100%" />
 
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=0891B2&center=true&vCenter=true&width=620&lines=%E5%81%B6%E5%B0%94%E5%86%99%E4%BB%A3%E7%A0%81+%C2%B7+%E5%81%B6%E5%B0%94%E9%80%A0%E8%BD%AE%E5%AD%90+%C2%B7+%E4%B8%BB%E4%B8%9A%E8%BA%BA%E5%B9%B3;%E6%8A%98%E8%85%BE%E4%B8%8D%E6%AD%A2+%C2%B7+%E8%BA%BA%E5%B9%B3%E4%B8%8D%E6%9C%8D;Drone+%C3%97+RoboNIX;Python+%C2%B7+Rust+%C2%B7+Flutter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&weight=600&pause=1200&color=0891B2&center=true&vCenter=true&width=620&lines=%E5%81%B6%E5%B0%94%E5%86%99%E4%BB%A3%E7%A0%81+%C2%B7+%E5%81%B6%E5%B0%94%E9%80%A0%E8%BD%AE%E5%AD%90+%C2%B7+%E4%B8%BB%E4%B8%9A%E8%BA%BA%E5%B9%B3;%E6%8A%98%E8%85%BE%E4%B8%8D%E6%AD%A2+%C2%B7+%E8%BA%BA%E5%B9%B3%E4%B8%8D%E6%9C%8D;Drone+%C3%97+RoboNIX;Python+%C2%B7+Rust+%C2%B7+Flutter" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![Blog](https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-06b6d4?style=for-the-badge&logo=githubpages&logoColor=white)](https://nbsheep.github.io)
-[![RoboNIX](https://img.shields.io/badge/RoboNIX-%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8D%8F%E5%90%8C-0ea5e9?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/nbsheep/robonix)
-[![Auto Commits](https://img.shields.io/badge/AutoCommits-%E7%BB%BF%E5%A2%99%E5%B7%A5%E5%8E%82-10b981?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/nbsheep/github-auto-commits)
-[![Followers](https://img.shields.io/github/followers/nbsheep?style=for-the-badge&color=0891b2&label=Followers&logo=github&logoColor=white)](https://github.com/nbsheep)
+[![Blog](https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-06b6d4?style=flat-square&logo=githubpages&logoColor=white)](https://nbsheep.github.io)
+[![RoboNIX](https://img.shields.io/badge/RoboNIX-%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8D%8F%E5%90%8C-0ea5e9?style=flat-square&logo=rust&logoColor=white)](https://github.com/nbsheep/robonix)
+[![Auto Commits](https://img.shields.io/badge/AutoCommits-%E7%BB%BF%E5%A2%99%E5%B7%A5%E5%8E%82-10b981?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/nbsheep/github-auto-commits)
+[![Followers](https://img.shields.io/github/followers/nbsheep?style=flat-square&color=0891b2&label=Followers&logo=github&logoColor=white)](https://github.com/nbsheep)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nbsheep&color=06b6d4&style=for-the-badge&label=%F0%9F%91%80+Profile+Views)](https://github.com/nbsheep)
-[![Blog Update](https://img.shields.io/github/last-commit/nbsheep/nbsheep.github.io?style=for-the-badge&color=10b981&label=%F0%9F%93%B0%20%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0&logo=hexo&logoColor=white)](https://nbsheep.github.io)
+[![Profile Views](https://komarev.com/ghpvc/?username=nbsheep&color=06b6d4&style=flat-square&label=%F0%9F%91%80+Profile+Views)](https://github.com/nbsheep)
+[![Blog Update](https://img.shields.io/github/last-commit/nbsheep/nbsheep.github.io?style=flat-square&color=10b981&label=%F0%9F%93%B0%20%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0&logo=hexo&logoColor=white)](https://nbsheep.github.io)
 
 </div>
 
@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=python,rust,java,cpp,dart,flutter,android,linux,git,docker,md&theme=light" alt="Tech Stack" />
 </a>
 
-`Python` `Rust` `Java` `C++` `Flutter` `Hexo` `ROS`
+**Python** · **Rust** · **Java** · **C++** · **Flutter** · **Hexo** · **ROS**
 
 </div>
 
@@ -98,8 +98,8 @@
 
 <div align="center">
 
-[![Blog Comment](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E7%95%99%E8%A8%80-Comment-06b6d4?style=for-the-badge&logo=hexo&logoColor=white)](https://nbsheep.github.io)
-[![GitHub Issue](https://img.shields.io/badge/GitHub-Issue-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nbsheep/nbsheep/issues)
+[![Blog Comment](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E7%95%99%E8%A8%80-Comment-06b6d4?style=flat-square&logo=hexo&logoColor=white)](https://nbsheep.github.io)
+[![GitHub Issue](https://img.shields.io/badge/GitHub-Issue-0ea5e9?style=flat-square&logo=github&logoColor=white)](https://github.com/nbsheep/nbsheep/issues)
 
 </div>
 
