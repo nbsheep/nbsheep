@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=620&lines=%E5%81%B6%E5%B0%94%E5%86%99%E4%BB%A3%E7%A0%81+%C2%B7+%E5%81%B6%E5%B0%94%E9%80%A0%E8%BD%AE%E5%AD%90+%C2%B7+%E4%B8%BB%E4%B8%9A%E8%BA%BA%E5%B9%B3;%E6%8A%98%E8%85%BE%E4%B8%8D%E6%AD%A2+%C2%B7+%E8%BA%BA%E5%B9%B3%E4%B8%8D%E6%9C%8D;Drone+%C3%97+RoboNIX;Python+%C2%B7+Rust+%C2%B7+Flutter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&lines=%E5%81%B6%E5%B0%94%E5%86%99%E4%BB%A3%E7%A0%81+%C2%B7+%E5%81%B6%E5%B0%94%E9%80%A0%E8%BD%AE%E5%AD%90+%C2%B7+%E4%B8%BB%E4%B8%9A%E8%BA%BA%E5%B9%B3;%E6%8A%98%E8%85%BE%E4%B8%8D%E6%AD%A2+%C2%B7+%E8%BA%BA%E5%B9%B3%E4%B8%8D%E6%9C%8D;Drone+%C3%97+RoboNIX;Python+%C2%B7+Rust+%C2%B7+Flutter" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -13,7 +13,10 @@
 [![Auto Commits](https://img.shields.io/badge/AutoCommits-%E7%BB%BF%E5%A2%99%E5%B7%A5%E5%8E%82-10b981?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/nbsheep/github-auto-commits)
 [![Followers](https://img.shields.io/github/followers/nbsheep?style=for-the-badge&color=0891b2&label=Followers&logo=github&logoColor=white)](https://github.com/nbsheep)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nbsheep&color=0d9488&style=for-the-badge&label=%F0%9F%91%80+Profile+Views)](https://github.com/nbsheep)
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=nbsheep&color=06b6d4&style=for-the-badge&label=%F0%9F%91%80+Profile+Views)](https://github.com/nbsheep)
+[![Blog Update](https://img.shields.io/github/last-commit/nbsheep/nbsheep.github.io?style=for-the-badge&color=10b981&label=%F0%9F%93%B0%20%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0&logo=hexo&logoColor=white)](https://nbsheep.github.io)
 
 </div>
 
@@ -48,36 +51,14 @@
 
 <p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nbsheep&hide_border=true&background=0d1117&ring=06b6d4&fire=10b981&currStreakNum=f8fafc&sideNums=cbd5e1&currStreakLabel=22d3ee&currStreakUnit=f8fafc&sideLabels=94a3b8&dates=64748b&excludeDaysLabel=475569" />
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=nbsheep&hide_border=true&background=ffffff&ring=06b6d4&fire=10b981&currStreakNum=0f172a&sideNums=334155&currStreakLabel=0891b2&currStreakUnit=0f172a&sideLabels=475569&dates=94a3b8&excludeDaysLabel=cbd5e1" />
-      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nbsheep&hide_border=true&background=ffffff&ring=06b6d4&fire=10b981&currStreakNum=0f172a&sideNums=334155&currStreakLabel=0891b2&currStreakUnit=0f172a&sideLabels=475569&dates=94a3b8&excludeDaysLabel=cbd5e1" />
-    </picture>
-  </a>
-</p>
-
-### 🤣 &nbsp;快乐源泉 · Daily Dose
-
-<p align="center">
-  <a href="https://github.com/ABSphreak/readme-jokes">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/shravan20/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote Card" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nbsheep&hide_border=true&background=0d1117&ring=06b6d4&fire=10b981&currStreakNum=f8fafc&sideNums=cbd5e1&currStreakLabel=22d3ee&currStreakUnit=f8fafc&sideLabels=94a3b8&dates=64748b&excludeDaysLabel=475569" />
   </a>
 </p>
 
 ### 🐍 &nbsp;贡献贪吃蛇 · Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nbsheep/nbsheep/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nbsheep/nbsheep/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/nbsheep/nbsheep/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/nbsheep/nbsheep/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:10b981,50:0ea5e9,100:06b6d4&section=footer" width="100%" />
