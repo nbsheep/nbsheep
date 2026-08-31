@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&lines=%E5%81%B6%E5%B0%94%E5%86%99%E4%BB%A3%E7%A0%81+%C2%B7+%E5%81%B6%E5%B0%94%E9%80%A0%E8%BD%AE%E5%AD%90+%C2%B7+%E4%B8%BB%E4%B8%9A%E8%BA%BA%E5%B9%B3;%E6%8A%98%E8%85%BE%E4%B8%8D%E6%AD%A2+%C2%B7+%E8%BA%BA%E5%B9%B3%E4%B8%8D%E6%9C%8D;Drone+%C3%97+RoboNIX;Python+%C2%B7+Rust+%C2%B7+Flutter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=0891B2&center=true&vCenter=true&width=620&lines=%E5%81%B6%E5%B0%94%E5%86%99%E4%BB%A3%E7%A0%81+%C2%B7+%E5%81%B6%E5%B0%94%E9%80%A0%E8%BD%AE%E5%AD%90+%C2%B7+%E4%B8%BB%E4%B8%9A%E8%BA%BA%E5%B9%B3;%E6%8A%98%E8%85%BE%E4%B8%8D%E6%AD%A2+%C2%B7+%E8%BA%BA%E5%B9%B3%E4%B8%8D%E6%9C%8D;Drone+%C3%97+RoboNIX;Python+%C2%B7+Rust+%C2%B7+Flutter" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -40,7 +40,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,rust,java,cpp,dart,flutter,android,linux,git,docker,md&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,rust,java,cpp,dart,flutter,android,linux,git,docker,md&theme=light" alt="Tech Stack" />
 </a>
 
 `Python` `Rust` `Java` `C++` `Flutter` `Hexo` `ROS`
@@ -51,14 +51,14 @@
 
 <p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nbsheep&hide_border=true&background=0d1117&ring=06b6d4&fire=10b981&currStreakNum=f8fafc&sideNums=cbd5e1&currStreakLabel=22d3ee&currStreakUnit=f8fafc&sideLabels=94a3b8&dates=64748b&excludeDaysLabel=475569" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nbsheep&hide_border=true&background=ffffff&ring=06b6d4&fire=10b981&currStreakNum=0f172a&sideNums=334155&currStreakLabel=0891b2&currStreakUnit=0f172a&sideLabels=475569&dates=94a3b8&excludeDaysLabel=cbd5e1" />
   </a>
 </p>
 
 ### 🐍 &nbsp;贡献贪吃蛇 · Contribution Snake
 
 <p align="center">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/nbsheep/nbsheep/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/nbsheep/nbsheep/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:10b981,50:0ea5e9,100:06b6d4&section=footer" width="100%" />
