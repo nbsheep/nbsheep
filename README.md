@@ -62,6 +62,14 @@
 | [**robonix**](https://github.com/nbsheep/robonix) | 无人机协同作业平台 | `Rust` `Python` |
 | [**github-auto-commits**](https://github.com/nbsheep/github-auto-commits) | 每日自动提交，点亮贡献图 | `GitHub Actions` |
 
+### 📝 &nbsp;博客最近更新 · Latest Posts
+
+- 🟩 [**我刷了绿墙，然后写了个工具来抓自己**](https://nbsheep.github.io/2026/08/31/greenwall-detector/)
+- 🤖 [**GitHub 自动提交刷绿墙：从一行 cron 到一个带面板的小软件**](https://nbsheep.github.io/2026/08/26/github-auto-commits/)
+- 🌿 [**Git 操作完全指南：从增量下载到团队协作**](https://nbsheep.github.io/2026/08/25/git-complete-guide/)
+- 🛩️ [**把大疆 M3E 无人机接进 RoboNIX：目前的进展**](https://nbsheep.github.io/2026/08/24/m3e-robonix-progress/)
+- 🎧 [**用纯 Python 标准库写一个本地音频处理工具**](https://nbsheep.github.io/2026/08/24/python-stdlib-local-audio-tool/)
+
 ### 📊 &nbsp;GitHub 数据 · Stats
 
 <p align="center">
